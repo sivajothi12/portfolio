@@ -1,0 +1,214 @@
+h1
+{
+    text-align: center;   
+    font-size: 35px;
+    color:bisque;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.div1
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    letter-spacing: 4px;
+   
+}
+
+.one
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 50PX;
+    margin-right: 70PX;
+    font-size:22px;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman';
+    letter-spacing: 3px;
+
+}
+.two
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 5PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman';
+
+}
+
+.three
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 5PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman';
+
+}
+.four
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 5PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman';
+
+}
+.five
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 3PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman';
+
+}
+.six
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 3PX;
+    margin-right: 50PX;
+    font-size: 22PX;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman';
+
+}
+.skill
+{
+    display: flex;
+    flex-direction: column;
+    padding: 0 20%;
+}
+.skill-area
+{
+    position: relative;
+    margin-bottom: 40px;
+}
+.skill-title
+{
+    color:aqua;
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    padding-right: 200px;
+
+}
+.skill-bar
+{
+    height: 40px;
+    width: 100%;
+    z-index: -1;
+    border-radius: 50px;
+    position: absolute;
+}
+.skill-fill
+{
+    background:grey;
+    height: 30px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 30px;
+    overflow: hidden;
+}
+.skill-percent
+{
+    font-size:20px;
+}
+.html
+{
+    animation: html 2s;
+    width: 80%;
+}
+.css
+{
+    animation: css 2s;
+    width:70%;
+}
+
+.c
+{
+    animation: c 2s;
+    width: 80%;
+}
+
+.c2
+{
+    animation: c2 2s;
+    width:50%;
+}
+
+.python
+{
+    animation: python 2s;
+    width:60%;
+}
+
+
+@keyframes html{
+    from{
+        width: 0;
+    }
+    to{
+        width: 80%;
+    }
+}
+@keyframes css{
+    from{
+        width: 0;
+    }
+    to{
+        width: 70%;
+    }
+}
+
+@keyframes c{
+    from{
+        width: 0;
+    }
+    to{
+        width: 80%;
+    }
+}
+
+@keyframes c2{
+    from{
+        width: 0;
+    }
+    to{
+        width: 50%;
+    }
+}
+@keyframes python{
+    from{
+        width: 0;
+    }
+    to{
+        width: 60%;
+    }
+}
+@media only screen and (max-width:750px){
+    .skill-area{
+        padding: 0 5%;
+    }
+}
+.he1{
+    color: pink;
+    letter-spacing: 4px;
+}

@@ -1,0 +1,149 @@
+.logo
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 20PX;
+    margin-right: 50PX;
+    font-size:30px;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.div1
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+   
+}
+.div2
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+.one
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 50PX;
+    margin-right: 70PX;
+    font-size:22px;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman';
+    letter-spacing: 3px;
+
+}
+.two
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 5PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman';
+
+}
+
+.three
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 5PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman';
+
+}
+.four
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 5PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman';
+
+}
+.five
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 3PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman';
+
+}
+.six
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 3PX;
+    margin-right: 50PX;
+    font-size: 22PX;
+    display: inline-block;
+    color:pink;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman';
+}
+h1{
+    text-align: center;
+    color: aqua;
+    font-family: 'Times New Roman';
+    margin-top: 5px;
+    margin-right: 5px;
+}
+p{
+    color: bisque;
+    font-family: 'Times New Roman';
+    font-size: x-large;
+    letter-spacing: 2px;
+    max-width: 170vh;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+li{
+    color: aqua;
+    font-family: 'Times New Roman';
+    letter-spacing: 4px;
+    font-size: xx-large;
+
+}
+.i1{
+    height: 500px;
+    width: 1300px;
+    align-items: center;
+}
+.l1{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+    letter-spacing: 4px;
+    font-size: xx-large;
+    align-items:center;
+    float: center;
+}
+span
+{
+    color:skyblue;
+    
+}
+ol{
+    align-items: center;
+    margin-left: 350px;
+    margin-right: 250px;
+}

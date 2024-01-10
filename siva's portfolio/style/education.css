@@ -1,0 +1,125 @@
+
+.div1
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+   
+}
+.one
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 50PX;
+    margin-right: 50PX;
+    font-size:22px;
+    display: inline-block;
+    color:pink;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman';
+
+}
+.two
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 5PX;
+    margin-right: 50PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman';
+
+}
+
+.three
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 5PX;
+    margin-right: 50PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman';
+
+}
+.four
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 5PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman';
+
+}
+.five
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 3PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman';
+
+}
+.six
+{
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 3PX;
+    margin-right: 50PX;
+    font-size: 22PX;
+    display: inline-block;
+    color:pink;
+    letter-spacing: 3px;
+    font-family: 'Times New Roman';
+
+}
+.seven
+{
+    color:antiquewhite;
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 3PX;
+    margin-right: 50PX;
+}
+td
+{
+    color:bisque;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+    font-style:normal;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 100px;
+    margin-right: 200px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    padding-left: 100px;    
+    
+}
+li
+{
+    color:aqua;
+}
+h1
+{
+    color: white;
+    margin-left: 50px;
+}
+.he1{
+    color: pink;
+    letter-spacing: 4px;
+    text-align: center;
+}
+

@@ -1,0 +1,219 @@
+h1
+{
+    text-align: center;   
+    font-size: 35px;
+    color:rgb(104, 104, 173);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.logo
+{
+    text-align: center;
+    letter-spacing: 7px;
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 20PX;
+    margin-right: 50PX;
+    font-size:30px;
+    color:pink;
+    font-family: 'Times New Roman';
+}
+.img2
+{
+    background-position: right;
+    height: 50px;
+    width: 50px;
+    float: center;
+    align-items: center;
+   
+}
+.one
+{
+    letter-spacing: 3px;
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 50PX;
+    margin-right: 70PX;
+    font-size:22px;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman';
+
+}
+.two
+{
+    letter-spacing: 3px;
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 5PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman';
+
+}
+
+.three
+{
+    letter-spacing: 3px;
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 5PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman';
+
+}
+.four
+{
+    letter-spacing: 3px;
+    letter-spacing: 3px;
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 5PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman';
+
+}
+.five
+{
+    letter-spacing: 3px;
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 3PX;
+    margin-right: 70PX;
+    font-size: 22px;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman';
+
+}
+.six
+{
+    letter-spacing: 3px;
+    margin-top:  30PX;
+    margin-bottom: 30PX;
+    margin-left: 3PX;
+    margin-right: 50PX;
+    font-size: 22PX;
+    display: inline-block;
+    color:pink;
+    font-family: 'Times New Roman';
+
+}
+label{
+    color: rgb(86, 236, 236);
+    font-size: 20px;
+    text-align: left;
+}
+button{
+    background:rgb(47, 73, 190) ;
+    width: 90px;
+    border: none;
+    outline: none;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 20px;
+    box-shadow: 0px 5px 15px 0px rgb(28, 140, 160);
+}
+.container{
+    
+    width: 100%;
+    margin: 1%;
+}
+.contact-box{
+    background: rgb(0, 0, 0);
+    color: rgb(0, 68, 255);
+    display: flex;
+    font-size: 25px;
+}
+.contact-right{
+    flex-basis: 100%;
+    padding: 40px;
+    background: rgb(0, 0, 0);
+    color: rgb(160, 12, 103);
+}
+h1{
+    margin-bottom: 10px;
+}
+.container p{
+    text-align: center;
+    color: rgb(0, 247, 247);
+    font-size: 40px;
+}
+.input-row{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.input-row .input-group{
+    flex-basis: 45%;
+
+}
+input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    outline: none;
+    padding-bottom: 5px;
+}
+textarea{
+    width: 100%;
+    border: 1px solid #ccc;
+    outline: none;
+    padding: 10px;
+    box-sizing: border-box;
+}
+label{
+    margin-bottom: 6px;
+    display: block;
+    color: #1c00b5;
+}
+.contact-left h3{
+    color:blue;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.contact-right h3{
+    color: rgb(155, 0, 26);    
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+tr td:first-child{
+    padding-right: 20px;
+
+}
+tr td{
+    padding-top: 20px;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+
+}
+.h11{
+    text-align: center;
+    color: #5f4ccc;
+    letter-spacing: 4px;
+    text-underline-position: below;
+
+}
+.div3{
+    align-items: center;
+    text-align: center;
+}
+.img1{
+    height: 50px;
+    width: 50px;
+
+}
+a
+{
+    color:blue;
+    margin-top: 10vh;
+}
